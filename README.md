@@ -2,6 +2,13 @@
 
 ### Convert Collections to Empties, all objects assigned to collection will be parented to the new generated Empty. Naming is carried over also.
 
+[![Addon][addon-shield]][addon-url]
+
+[addon-shield]: https://img.shields.io/badge/Addon-WithToolMenu?style=flat&logo=blender&logoColor=%23E87D0D&label=Script%20with%20Menu
+[addon-url]: https://github.com/ScottRaffertyCG/BlenderCollection2Empty/blob/Collect2Empty-ToolMenu/Media/ToolMenuLocation.png
+
+
+
 ### Getting Started
 
 Download the collec2empty.py file in this repo.\
