@@ -6,7 +6,8 @@
 
 Download the collec2empty.py file in this repo.\
 Go to scripting tab, open new text file and paste script.\
-Go to Text menu and press Run Script (Shortcut is Alt + P)
+Go to Text menu and press Run Script (Shortcut is Alt + P)\
+Tested in Blender 4.3.0
 
 ![](https://github.com/ScottRaffertyCG/BlenderCollection2Empty/blob/main/Media/Collec2Empty_DEMO.gif)
 
